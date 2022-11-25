@@ -1,0 +1,51 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CXX11",
+					"hasInstallRule" : true,
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CXX11"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Project"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Hutch++/unsupported/Eigen/out/build/x64-Debug",
+		"source" : "E:/Hutch++/unsupported/Eigen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
